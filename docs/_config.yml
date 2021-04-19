@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: We can try changing baseurl from "/docs" to something else
+title: We can update on 19 Apr 2021 at 1626, but I want the chrono posts
 email: longarchivist@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My description is that I would like to have this working properly on Github.com
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "longarchivist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://longarchivist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
