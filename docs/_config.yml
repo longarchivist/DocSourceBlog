@@ -23,7 +23,7 @@ email: longarchivist@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My description is that I would like to have this working properly at 1629
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://longarchivist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://longarchivist.github.io/DocSourceBlog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
